@@ -1,5 +1,8 @@
 # FPL-AutoTeam
 
+* Add injurty
+* Add desperation index to focus more on high scoring players to catch other players
+
 I have no idea about the premier league or any football at all really. 
 
 Import data from API and evaluate potential team points for upcoming fixtures. Will recommend trades to make maximising the points over the coming 7 weeks.
