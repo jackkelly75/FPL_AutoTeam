@@ -1,5 +1,23 @@
 # FPL-AutoTeam
 
+
+
+# Installation
+Clone repo and create the conda env with packages used:
+
+``` bash
+cd ./FPL_AutoTeam
+conda env create -f environment.yml
+ ```
+and then install the package:
+``` bash
+pip install -e .
+ ```
+# Import FPL data
+You may want to import FPL data for your own purpose. This gives the ability to import in following format:
+
+
+
 * Add injurty
 * Add desperation index to focus more on high scoring players to catch other players
 
