@@ -4,7 +4,7 @@ fpl_predictor package
 
 Tools for predicting Fantasy Premier League points and transfers.
 """
-
+'''
 # Import key functions so they’re available at the top level
 from .prediction import run_predictions
 from .fixture_transfer import get_fixture_transfers
@@ -19,3 +19,4 @@ __all__ = [
     "review_past_weeks",
 ]
 
+'''

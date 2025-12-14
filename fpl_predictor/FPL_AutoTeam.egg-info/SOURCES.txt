@@ -1,0 +1,6 @@
+README.md
+setup.py
+fpl_predictor/FPL_AutoTeam.egg-info/PKG-INFO
+fpl_predictor/FPL_AutoTeam.egg-info/SOURCES.txt
+fpl_predictor/FPL_AutoTeam.egg-info/dependency_links.txt
+fpl_predictor/FPL_AutoTeam.egg-info/top_level.txt
